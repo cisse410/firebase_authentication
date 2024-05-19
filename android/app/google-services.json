@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "21349800038",
+    "project_id": "mon-carnet-fced0",
+    "storage_bucket": "mon-carnet-fced0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21349800038:android:95201330c1d55d2b7c75a7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwtWxBCfq80YeP_zKbHYhWEA2JIsTsZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21349800038:android:ae7744924b855f4e7c75a7",
+        "android_client_info": {
+          "package_name": "com.example.widget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwtWxBCfq80YeP_zKbHYhWEA2JIsTsZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21349800038:android:3d96d4357eab87177c75a7",
+        "android_client_info": {
+          "package_name": "dev.cisse410.carnet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvwtWxBCfq80YeP_zKbHYhWEA2JIsTsZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
